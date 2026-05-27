@@ -1,21 +1,21 @@
 export default function Hero() {
   return (
-    <section className="min-h-screen flex items-center justify-center px-6 pt-20 bg-gradient-to-br from-violet-50 via-pink-50 to-amber-50">
+    <section style={{ background: 'linear-gradient(135deg, #D4DCC8 0%, #E8EDE0 50%, #EDE8DF 100%)' }} className="min-h-screen flex items-center justify-center px-6 pt-20">
       <div className="text-center max-w-2xl">
-        <div className="inline-block bg-violet-100 text-violet-700 text-sm font-medium px-4 py-1.5 rounded-full mb-6">
-          Open to new opportunities
+        <div style={{ backgroundColor: '#C2CEAF', color: '#4A2E1A' }} className="inline-block text-sm font-medium px-4 py-1.5 rounded-full mb-6">
+          🌿 Open to new opportunities
         </div>
-        <h1 className="text-5xl sm:text-6xl font-extrabold tracking-tight text-gray-900 mb-4">
-          Hi, I'm <span className="text-violet-600">Sneha Mudusu</span>
+        <h1 style={{ color: '#4A2E1A' }} className="text-5xl sm:text-6xl font-extrabold tracking-tight mb-4">
+          Hi, I'm <span style={{ color: '#7A9E7E' }}>Sneha Mudusu</span>
         </h1>
-        <p className="text-xl text-gray-500 mb-8">
+        <p style={{ color: '#6B4226' }} className="text-xl mb-8">
           Full-Stack Engineer who builds fast, accessible, and delightful web apps.
         </p>
         <div className="flex justify-center gap-4 flex-wrap">
-          <a href="#projects" className="bg-violet-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-violet-700 transition-colors">
+          <a href="#projects" style={{ backgroundColor: '#7A9E7E', color: '#F5F0E8' }} className="px-6 py-3 rounded-full font-semibold hover:opacity-90 transition-opacity">
             View My Work
           </a>
-          <a href="/resume.pdf" target="_blank" rel="noreferrer" className="border-2 border-violet-600 text-violet-600 px-6 py-3 rounded-full font-semibold hover:bg-violet-50 transition-colors">
+          <a href="/resume.pdf" target="_blank" rel="noreferrer" style={{ border: '2px solid #7A9E7E', color: '#7A9E7E' }} className="px-6 py-3 rounded-full font-semibold hover:opacity-80 transition-opacity">
             Download Resume
           </a>
         </div>

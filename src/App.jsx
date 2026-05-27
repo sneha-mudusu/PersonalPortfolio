@@ -7,7 +7,7 @@ import Contact from './components/Contact'
 
 export default function App() {
   return (
-    <main className="bg-white text-gray-900 font-sans">
+    <main style={{ backgroundColor: '#E8EDE0', color: '#4A2E1A' }} className="font-sans">
       <Navbar />
       <Hero />
       <About />
