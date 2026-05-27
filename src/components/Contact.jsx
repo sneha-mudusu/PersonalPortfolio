@@ -54,8 +54,8 @@ export default function Contact() {
 
         <div className="flex justify-center gap-6 mt-10 text-sm">
           <a href="https://github.com/sneha-mudusu" target="_blank" rel="noreferrer" style={{ color: '#6B4226' }} className="hover:opacity-70 transition-opacity">GitHub ↗</a>
-          <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer" style={{ color: '#6B4226' }} className="hover:opacity-70 transition-opacity">LinkedIn ↗</a>
-          <a href="mailto:your@email.com" style={{ color: '#6B4226' }} className="hover:opacity-70 transition-opacity">Email ↗</a>
+          <a href="https://www.linkedin.com/in/sneha-mudusu/" target="_blank" rel="noreferrer" style={{ color: '#6B4226' }} className="hover:opacity-70 transition-opacity">LinkedIn ↗</a>
+          <a href="mailto:mudusu.sneha@gmail.com" style={{ color: '#6B4226' }} className="hover:opacity-70 transition-opacity">Email ↗</a>
         </div>
       </div>
     </section>

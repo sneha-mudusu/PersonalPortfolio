@@ -1,5 +1,5 @@
 const facts = [
-  { label: 'Experience', value: '2+ years' },
+  { label: 'Experience', value: '3+ years' },
   { label: 'Favorite Stack', value: 'React + Node' },
   { label: 'Currently Learning', value: 'TypeScript' },
   { label: 'Based In', value: 'Your City' },
