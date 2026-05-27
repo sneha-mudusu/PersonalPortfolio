@@ -1,8 +1,8 @@
 const facts = [
-  { label: 'Experience', value: '3+ years' },
-  { label: 'Favorite Stack', value: 'React + Node' },
-  { label: 'Currently Learning', value: 'TypeScript' },
-  { label: 'Based In', value: 'Your City' },
+  { label: 'Experience', value: '4+ years' },
+  { label: 'Favorite Work', value: 'ML models' },
+  { label: 'Currently Learning', value: 'NLP' },
+  { label: 'Based In', value: 'New York' },
 ]
 
 export default function About() {
