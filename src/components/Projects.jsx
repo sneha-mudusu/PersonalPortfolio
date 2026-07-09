@@ -2,8 +2,8 @@ import { useState } from 'react'
 
 const projects = [
   {
-    title: 'Project One',
-    description: 'A full-stack web app with user auth, REST API, and a responsive dashboard.',
+    title: 'Retail Sales & Customer Segmentation (2025)',
+    description: 'A full-stack web application for retail sales and customer segmentation, allowing users to analyze sales data and segment customers based on purchasing behavior.',
     summary: 'Built with a React frontend and Node.js/Express backend. Features include JWT authentication, role-based access control, and a real-time dashboard with charts. Deployed on Render with a MongoDB Atlas database.',
     screenshot: '/screenshots/project1.png',
     tags: ['React', 'Node', 'MongoDB'],
@@ -11,17 +11,17 @@ const projects = [
     github: '#',
   },
   {
-    title: 'Project Two',
+    title: 'EDA - Exploratory Data Anlaysis (2023)',
     description: 'A real-time chat application with WebSocket support and message history.',
     summary: 'Users can join named rooms, send messages in real time, and scroll through chat history. Built with Socket.io on the backend and React on the frontend. Messages are persisted in MongoDB.',
     screenshot: '/screenshots/project2.png',
-    tags: ['React', 'Socket.io', 'Express'],
+    tags: ['Data Profiling', 'Co-relation Analysis', 'Pandas', 'SQL'],
     live: '#',
     github: '#',
   },
   {
-    title: 'Project Three',
-    description: 'A Python script that scrapes, processes, and visualizes public data.',
+    title: 'Customer Churn Prediction (2021)',
+    description: 'A machine learning project that predicts customer churn using historical data and various ML algorithms.',
     summary: 'Scrapes data from public APIs using BeautifulSoup, cleans and processes it with Pandas, and generates interactive visualizations with Matplotlib and Seaborn. Outputs a PDF report automatically.',
     screenshot: '/screenshots/project3.png',
     tags: ['Python', 'Pandas', 'Matplotlib'],
@@ -29,11 +29,11 @@ const projects = [
     github: '#',
   },
   {
-    title: 'Project Four',
-    description: 'A mobile-friendly e-commerce UI with cart, filters, and checkout flow.',
+    title: 'Quiz App/Website (2019)',
+    description: 'A Website made up of purely HTML, CSS, and JavaScript that allows users to take quizzes on various topics.',
     summary: 'A fully responsive shopping UI with product filtering, a persistent cart using localStorage, and a multi-step checkout form. Styled with Tailwind CSS and backed by Firebase for auth and product data.',
     screenshot: '/screenshots/project4.png',
-    tags: ['React', 'Tailwind', 'Firebase'],
+    tags: ['HTML', 'CSS', 'JavaScript'],
     live: '#',
     github: '#',
   },
