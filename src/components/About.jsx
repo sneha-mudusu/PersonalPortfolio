@@ -1,7 +1,7 @@
 const facts = [
-  { label: 'Experience', value: '4+ years' },
+  { label: 'Experience', value: '3+ years' },
   { label: 'Favorite Work', value: 'ML models' },
-  { label: 'Currently Learning', value: 'NLP' },
+  { label: 'Currently Learning', value: 'Agentic Analysis' },
   { label: 'Based In', value: 'New York' },
 ]
 
