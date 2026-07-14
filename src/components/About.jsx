@@ -13,12 +13,13 @@ export default function About() {
         <div style={{ backgroundColor: '#7A9E7E' }} className="w-12 h-1 rounded mb-8" />
         <div className="flex flex-col sm:flex-row gap-10 items-start">
           <div style={{ background: 'linear-gradient(135deg, #7A9E7E, #A8C5A0)' }} className="w-32 h-32 rounded-2xl flex items-center justify-center text-white text-4xl font-bold shrink-0">
-            SM
+            <img src="src/assets/propic.jpeg" alt="SM" />
           </div>
           <div>
             <p style={{ color: '#6B4226' }} className="text-lg leading-relaxed mb-6">
-              I'm a full-stack engineer passionate about building products that are both
-              technically solid and a joy to use. I love turning complex problems into
+              Hey! I'm a Data Analyst by trade and a web developer by passion.
+              I specialize in bridging the gap between deep analytical insights and modern web design ensuring that every project 
+              i touch is both technically sound and user-centric. I love turning complex problems into
               clean, simple interfaces. Currently looking for a role where I can
               contribute, grow, and keep shipping great work.
             </p>

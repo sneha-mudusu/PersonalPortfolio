@@ -14,7 +14,7 @@ export default function Hero() {
             Hi, I'm <span style={{ color: '#7A9E7E' }}>Sneha Mudusu</span>
           </h1>
           <p style={{ color: '#6B4226' }} className="text-xl mb-8">
-            Full-Stack Engineer who builds fast, accessible, and delightful web apps.
+            Data Analyst who turns messy things into something useful - And i'm pretty sure My spirit animal is an outlier.
           </p>
           <div className="flex justify-center gap-4 flex-wrap">
             <a href="#projects" style={{ backgroundColor: '#7A9E7E', color: '#F5F0E8' }} className="px-6 py-3 rounded-full font-semibold hover:opacity-90 transition-opacity">
